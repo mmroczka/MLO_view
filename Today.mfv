@@ -2,7 +2,7 @@
 <MLO-ToDoViews-xml ver="1.0">
   <ToDoViewsRoot>
     <ToDoView Name="Today" CounterType="2" CounterHideIfZero="true">
-      <UI ActionFlt="4" UseAdvFlt="true" HideCompleted="0">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" HideCompleted="0">
         <HightlightFormat bold="1" inherit="0" options="0"/>
       </UI>
       <Group>
