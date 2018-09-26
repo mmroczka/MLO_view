@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Weekly Review" IsFolder="true">
+      <UI ActionFlt="4" UseHierarchy="true">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="593"/>
+        <Column ID="3" Pos="3" Width="100"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="Review">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkR2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkQv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkxmZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkxP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQqZmVk/2ZlZP9mZWRq////AP///wD///8A////AP///wD///8A////AGZlZHRmZWT/ZmVk/2ZlZC3///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWSFZmVk/2ZlZNJmZWQC////AP///wD///8A////AP///wD///8A////AGZlZANmZWTbZmVk/2ZlZIr///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWTLZmVk/2ZlZGP///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWR4ZmVk/2ZlZNf///8A////AP///wD///8A////AGZlZD9mZWTGZmVk92ZlZP9mZWT/ZmVk+2ZlZBD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQxZmVk/2ZlZP9mZWQg////AP///wD///8AZmVkUWZlZP5mZWT/ZmVk/2ZlZP9mZWT/ZmVkyP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQCZmVk6mZlZP9mZWRe////AP///wD///8AZmVk0WZlZP9mZWSTZmVkFGZlZJdmZWT/ZmVkj////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkq2ZlZP9mZWSY////AP///wD///8AZmVk+GZlZP9mZWQS////AGZlZMRmZWT/ZmVkWv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkcGZlZP9mZWTB////AP///wD///8AZmVk2GZlZP9mZWSTZmVkFGZlZNpmZWT/ZmVkLP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkOmZlZP9mZWTa////AP///wD///8AZmVkXWZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkGP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkF2ZlZP9mZWTu////AP///wD///8A////AGZlZFtmZWTZZmVk/2ZlZP9mZWT/ZmVkBv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkCGZlZP9mZWT1////AP///wD///8A////AP///wD///8AZmVkAmZlZP9mZWT/////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZP9mZWT/////AP///wD///8A////AP///wD///8A////AGZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT+////AP///wD///8A////AP///wD///8A////AGZlZMZmZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP1mZWSn////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZB9mZWTuZmVk1GZlZANmZWQfZmVk7mZlZNRmZWQDZmVkH2ZlZO5mZWTUZmVkA////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZJBmZWT/ZmVkX////wBmZWSQZmVk/2ZlZF////8AZmVkkGZlZP9mZWRf////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkGGZlZPhmZWTWZmVkAmZlZBhmZWT4ZmVk1mZlZAJmZWQYZmVk+GZlZNZmZWQC////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkTmZlZP9mZWSs////AGZlZE5mZWT/ZmVkrP///wBmZWROZmVk/2ZlZKz///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkD2ZlZLdmZWTwZmVkDWZlZA9mZWS3ZmVk8GZlZA1mZWQPZmVkt2ZlZPBmZWQN////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQD////AP///wD///8AZmVkA////wD///8A////AGZlZAP///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      <ToDoView Name="Review" CounterType="3" CounterHierarchy="2" CounterHideIfZero="true">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="26" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="NextReview" ConditionName="exists" ConditionID="429"/>
+            <Rule Field="NextReview" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="285"/>
+          <Column ID="36" Pos="7" Width="89"/>
+          <Column ID="33" Pos="8" Width="100"/>
+          <Column ID="35" Pos="9" Width="100"/>
+          <Column ID="34" Pos="19" Width="103"/>
+          <Column ID="7" Pos="26" Width="79"/>
+          <Column ID="27" Pos="36" Width="26"/>
+        </Columns>
+        <IcoData Caption="Review">AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAYAkAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkR2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkQv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkxmZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkxP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQqZmVk/2ZlZP9mZWRq////AP///wD///8A////AP///wD///8A////AGZlZHRmZWT/ZmVk/2ZlZC3///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWSFZmVk/2ZlZNJmZWQC////AP///wD///8A////AP///wD///8A////AGZlZANmZWTbZmVk/2ZlZIr///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWTLZmVk/2ZlZGP///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWR4ZmVk/2ZlZNf///8A////AP///wD///8A////AGZlZD9mZWTGZmVk92ZlZP9mZWT/ZmVk+2ZlZBD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQxZmVk/2ZlZP9mZWQg////AP///wD///8AZmVkUWZlZP5mZWT/ZmVk/2ZlZP9mZWT/ZmVkyP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQCZmVk6mZlZP9mZWRe////AP///wD///8AZmVk0WZlZP9mZWSTZmVkFGZlZJdmZWT/ZmVkj////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkq2ZlZP9mZWSY////AP///wD///8AZmVk+GZlZP9mZWQS////AGZlZMRmZWT/ZmVkWv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkcGZlZP9mZWTB////AP///wD///8AZmVk2GZlZP9mZWSTZmVkFGZlZNpmZWT/ZmVkLP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkOmZlZP9mZWTa////AP///wD///8AZmVkXWZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVkGP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkF2ZlZP9mZWTu////AP///wD///8A////AGZlZFtmZWTZZmVk/2ZlZP9mZWT/ZmVkBv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkCGZlZP9mZWT1////AP///wD///8A////AP///wD///8AZmVkAmZlZP9mZWT/////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZP9mZWT/////AP///wD///8A////AP///wD///8A////AGZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT+////AP///wD///8A////AP///wD///8A////AGZlZMZmZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP9mZWT/ZmVk/2ZlZP1mZWSn////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZB9mZWTuZmVk1GZlZANmZWQfZmVk7mZlZNRmZWQDZmVkH2ZlZO5mZWTUZmVkA////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGZlZJBmZWT/ZmVkX////wBmZWSQZmVk/2ZlZF////8AZmVkkGZlZP9mZWRf////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkGGZlZPhmZWTWZmVkAmZlZBhmZWT4ZmVk1mZlZAJmZWQYZmVk+GZlZNZmZWQC////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkTmZlZP9mZWSs////AGZlZE5mZWT/ZmVkrP///wBmZWROZmVk/2ZlZKz///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AZmVkD2ZlZLdmZWTwZmVkDWZlZA9mZWS3ZmVk8GZlZA1mZWQPZmVkt2ZlZPBmZWQN////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBmZWQD////AP///wD///8AZmVkA////wD///8A////AGZlZAP///8A////AP///wD///8A////AP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</IcoData>
+      </ToDoView>
+      <ToDoView Name="Missing Next Actions" CounterType="2" CounterHierarchy="2" CounterHideIfZero="true">
+        <UI ActionFlt="4" UseAdvFlt="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="IsProject" ConditionName="is true" ConditionID="310"/>
+            <Rule Field="HasSubtasks" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="HideInToDo" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="HasDependency" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="ActiveAction" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="477"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="26" Width="79"/>
+          <Column ID="27" Pos="36" Width="26"/>
+        </Columns>
+        <IcoData Caption="exclamation">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////ADNNyCMxS8Z9L0jE2yxGwvMqRMDzKEK+2yZAvH0kProj////AP///wD///8A////AP///wD///8A////ADpUz1M4UszmUmTU/4SQ5/+VoO7/lZ/t/4OO5f9MXc7/KEG95iY/u1P///8A////AP///wD///8A////AEJc1VM/WdP0dYTj/6Gs9P9/i+z/XGfk/1tm4/99h+r/n6jx/2983f8pQ7/0J0G9U////wD///8A////AElj3CJGYNrleIjm/6Ow9f9XZ+f/VmXm/4mS7f+Ikuz/U1/i/1Jd4f+fqfL/b33d/ytEwOUpQr4i////AP///wBOaOF+YHPg/6Sz9/9abuv/WWzq/1hp6P///////////1Vi5f9UYeP/U1/i/5+p8v9QYdH/LUbCfv///wD///8AUm3l246f8P+EmfT/XHPu/1tw7P9abuv/kJ3x/6av8/9XZ+f/VmXm/1Vi5f99iev/hZHn/zFKxtv///8A////AFdx6fags/f/ZYDy/1948P9ddu//XHPu/9PZ+v//////WWzq/1hp6P9XZ+f/XWzn/5ml8f81T8r2////AP///wBbdu32obb4/2eE9P9gfPP/X3rx/1948P///////////1tw7P9abuv/WWzq/19v6f+bqPH/OlPO9v///wD///8AX3rx25Gm8/+Iofj/YoD0/2F+8/9gfPP///////////9ddu//XHPu/1tw7P+Ck/H/iZjs/z5Y0tv///8A////AGN+9X5sgez/qb37/2OC9f9igfX/YoD0////////////X3rx/1948P9ddu//pbX4/11w3f9DXdd+////AP///wBngfgiZX/25YOX8P+pvfv/Y4L1/2OC9f///////////2F+8/9gfPP/prn5/3uN6v9KZN7lSGLbIv///wD///8A////AGiD+VNmgfj0hJfx/6m9+/+Ko/j/a4n2/2uJ9v+Jovj/qLz6/3+S7P9SbOT0T2niU////wD///8A////AP///wD///8AaYT6U2iC+eZug+7/kqb0/6C0+P+gtPj/kabz/2h96f9Zc+vmVnHpU////wD///8A////AP///wD///8A////AP///wBqhfwjaYT6fWeC+dtlgPfzY37182F889tfevF9XXfvI////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="Missing Contexts" CounterType="2" CounterHideIfZero="true">
+        <UI ActionFlt="4" UseAdvFlt="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="IsFolder" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="Contexts" ConditionName="is empty" ConditionID="1114"/>
+            <Rule Field="HideInToDo" ConditionName="is false" ConditionID="311"/>
+            <Rule NodeState="InActive" Field="ActiveAction" ConditionName="is true" ConditionID="310"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="656"/>
+          <Column ID="2" Pos="2" Width="100"/>
+          <Column ID="27" Pos="36" Width="26"/>
+        </Columns>
+        <IcoData Caption="exclamation">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////ADNNyCMxS8Z9L0jE2yxGwvMqRMDzKEK+2yZAvH0kProj////AP///wD///8A////AP///wD///8A////ADpUz1M4UszmUmTU/4SQ5/+VoO7/lZ/t/4OO5f9MXc7/KEG95iY/u1P///8A////AP///wD///8A////AEJc1VM/WdP0dYTj/6Gs9P9/i+z/XGfk/1tm4/99h+r/n6jx/2983f8pQ7/0J0G9U////wD///8A////AElj3CJGYNrleIjm/6Ow9f9XZ+f/VmXm/4mS7f+Ikuz/U1/i/1Jd4f+fqfL/b33d/ytEwOUpQr4i////AP///wBOaOF+YHPg/6Sz9/9abuv/WWzq/1hp6P///////////1Vi5f9UYeP/U1/i/5+p8v9QYdH/LUbCfv///wD///8AUm3l246f8P+EmfT/XHPu/1tw7P9abuv/kJ3x/6av8/9XZ+f/VmXm/1Vi5f99iev/hZHn/zFKxtv///8A////AFdx6fags/f/ZYDy/1948P9ddu//XHPu/9PZ+v//////WWzq/1hp6P9XZ+f/XWzn/5ml8f81T8r2////AP///wBbdu32obb4/2eE9P9gfPP/X3rx/1948P///////////1tw7P9abuv/WWzq/19v6f+bqPH/OlPO9v///wD///8AX3rx25Gm8/+Iofj/YoD0/2F+8/9gfPP///////////9ddu//XHPu/1tw7P+Ck/H/iZjs/z5Y0tv///8A////AGN+9X5sgez/qb37/2OC9f9igfX/YoD0////////////X3rx/1948P9ddu//pbX4/11w3f9DXdd+////AP///wBngfgiZX/25YOX8P+pvfv/Y4L1/2OC9f///////////2F+8/9gfPP/prn5/3uN6v9KZN7lSGLbIv///wD///8A////AGiD+VNmgfj0hJfx/6m9+/+Ko/j/a4n2/2uJ9v+Jovj/qLz6/3+S7P9SbOT0T2niU////wD///8A////AP///wD///8AaYT6U2iC+eZug+7/kqb0/6C0+P+gtPj/kabz/2h96f9Zc+vmVnHpU////wD///8A////AP///wD///8A////AP///wBqhfwjaYT6fWeC+dtlgPfzY37182F889tfevF9XXfvI////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="Waiting For">
+        <UI ActionFlt="4" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+          <Cntx>_Waiting</Cntx>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="6"/>
+          <Grp3 GroupBy="0"/>
+          <Grp4 GroupBy="0"/>
+        </Group>
+        <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="677"/>
+          <Column ID="7" Pos="26" Width="79"/>
+          <Column ID="27" Pos="36" Width="26"/>
+        </Columns>
+        <IcoData Caption="exclamation">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////ADNNyCMxS8Z9L0jE2yxGwvMqRMDzKEK+2yZAvH0kProj////AP///wD///8A////AP///wD///8A////ADpUz1M4UszmUmTU/4SQ5/+VoO7/lZ/t/4OO5f9MXc7/KEG95iY/u1P///8A////AP///wD///8A////AEJc1VM/WdP0dYTj/6Gs9P9/i+z/XGfk/1tm4/99h+r/n6jx/2983f8pQ7/0J0G9U////wD///8A////AElj3CJGYNrleIjm/6Ow9f9XZ+f/VmXm/4mS7f+Ikuz/U1/i/1Jd4f+fqfL/b33d/ytEwOUpQr4i////AP///wBOaOF+YHPg/6Sz9/9abuv/WWzq/1hp6P///////////1Vi5f9UYeP/U1/i/5+p8v9QYdH/LUbCfv///wD///8AUm3l246f8P+EmfT/XHPu/1tw7P9abuv/kJ3x/6av8/9XZ+f/VmXm/1Vi5f99iev/hZHn/zFKxtv///8A////AFdx6fags/f/ZYDy/1948P9ddu//XHPu/9PZ+v//////WWzq/1hp6P9XZ+f/XWzn/5ml8f81T8r2////AP///wBbdu32obb4/2eE9P9gfPP/X3rx/1948P///////////1tw7P9abuv/WWzq/19v6f+bqPH/OlPO9v///wD///8AX3rx25Gm8/+Iofj/YoD0/2F+8/9gfPP///////////9ddu//XHPu/1tw7P+Ck/H/iZjs/z5Y0tv///8A////AGN+9X5sgez/qb37/2OC9f9igfX/YoD0////////////X3rx/1948P9ddu//pbX4/11w3f9DXdd+////AP///wBngfgiZX/25YOX8P+pvfv/Y4L1/2OC9f///////////2F+8/9gfPP/prn5/3uN6v9KZN7lSGLbIv///wD///8A////AGiD+VNmgfj0hJfx/6m9+/+Ko/j/a4n2/2uJ9v+Jovj/qLz6/3+S7P9SbOT0T2niU////wD///8A////AP///wD///8AaYT6U2iC+eZug+7/kqb0/6C0+P+gtPj/kabz/2h96f9Zc+vmVnHpU////wD///8A////AP///wD///8A////AP///wBqhfwjaYT6fWeC+dtlgPfzY37182F889tfevF9XXfvI////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>

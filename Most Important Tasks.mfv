@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Most Important Tasks" CounterType="2" CounterHideIfZero="true">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" HideCompleted="0">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+        <Flag>Most Important Tasks</Flag>
+      </UI>
+      <Group>
+        <Grp1 GroupBy="5"/>
+        <Grp3 GroupBy="0"/>
+        <Grp4 GroupBy="0"/>
+      </Group>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="Flag" ConditionName="=" DataValue="Most Important Tasks" DataType="Integer" ConditionID="1301" LinkExpr="OR"/>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="514"/>
+        <Column ID="1" Pos="1" Width="25"/>
+        <Column ID="3" Pos="3" Width="100"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="star">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wAmqNxc////AP///wD///8A////AP///wD///8A////AP///wAIe8pXBXfIBv///wD///8A////AP///wD///8AKaze9Cep3PQlptuM////AP///wD///8A////ABSM0W4Qh8/sDIHM/v///wD///8A////AP///wD///8A////ACuv3+FQy+//Obfl/yWn3PkkpNqjIaHZkB2a1/Uqo93/Oa7l/xGIz/b///8A////AP///wD///8A////AP///wAtsuDHTcru/1TO8f9QyO//QLro/zm15f9Gvev/RLrr/z6z6P8Wj9Ln////AP///wD///8A////AP///wD///8AL7Xio0nI7P9JzPH/McPt/0LE7v9Gw+3/LLbq/yax6P88tOf/G5fVz////wD///8A////AP///wD///8A////ADG443xExur/V9Ly/yfC7f8jvez/H7fq/xuz6f82uer/OrPm/yCf2K7///8A////AP///wD///8A////ADW+5Qw0vOTpWdXy/0bQ8v8pxO7/JcDt/yK76/8dtun/IbTp/0a96/8jpNr3IaDZHf///wD///8A////ADnD5wY3webjSs7t/17b9f8wzfH/LMjv/yfD7v8kvuz/ILjq/xy06f9JwOz/N7Lk/ySk2/QiotoX////AP///wA6xujdTNLu/2Ph9v9B1vT/Ms/y/y7L8P8qxu//JsHt/yK86/8ft+r/ILTp/0e+7P82suT/JKXb7yOi2hI9yurUTdXv/1jc8v9e3vX/YN71/1/c9v9I1PP/Lcnv/ynE7v81xO3/UMnv/0zE7v9Fvuv/Pbfn/zOw4v8lptvrP83rDD7L6mE8yemnO8fp1jrF6PVJzu3/W9n0/0fT8v86y/D/Vc/x/z6/6P8utOH2LbHg2yuu364prN5uJ6ndHf///wD///8A////AP///wD///8AOsXogEnO7f9d2fT/Wdbz/0PF6v8yueOn////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wA6xujuVtby/1nW8/82v+X6NL3kBv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8APMjpV0jO7f9Ize3/OMLngP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wA8yenbO8fp7////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8APsvqMz3J6lL///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>

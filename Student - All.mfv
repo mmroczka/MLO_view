@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Student - All" CounterType="2" CounterHideIfZero="true">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="FolderName" ConditionName="contains" DataValue="'Masters Degree'" DataType="string" ConditionID="510"/>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="477"/>
+        <Column ID="3" Pos="3" Width="100"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="note">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAMCggP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID/wNzA/8DcwP/A3MD/wNzA/8DcwP////////////////////////////D7///AgED/AAAAPwAAAAAAAAAAwKCA/4Dg4P+A4OD/gODg///////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP+A4OD/8Pv///D7////////////////////////////////////////8Pv//8CAQP8AAAA/AAAAAAAAAADAoID/gODg///////wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb///////D7///AgED/AAAAPwAAAAAAAAAAwKCA///////w+///8Pv////////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP////////////DKpv/wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv///////////8CAQP8AAAA/AAAAAAAAAADAoID///////D7///w+//////////////////////////////////////////////AgED/AAAAPwAAAAAAAAAAwKCA//D7////////8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb/wKCA/8CggP/AwMD/wIBA/wAAAD8AAAAAAAAAAMCggP//////8Pv///D7////////////////////////wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID////////////wyqb/8Mqm//DKpv/wyqb/8Mqm/8CAQP///////////8DAwP/AgED/AAAAFgAAAAAAAAAAwKCA//D7///w+///8Pv////////////////////////AgED//////8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAMCggP//////////////////////////////////////wIBA/8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAADAoID//////////////////////////////////////8CAQP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwKCA/8CggP/AoID/wKCA/8CggP/AoID/wKCA/8CggP/AoID/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAOsQYAHrEGAD6xBgB+sQQ==</IcoData>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>

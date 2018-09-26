@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Student - High Effort Projects Due Soon" CounterType="2" CounterHierarchy="2" CounterHideIfZero="true">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" HideCompleted="0">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="Importance" ConditionName="=" DataValue="125" DataType="Integer" ConditionID="0">
+            <Rule Field="Effort" ConditionName="&gt;" DataValue="65" DataType="Integer" ConditionID="103" LinkExpr="OR"/>
+            <Rule Field="Importance" ConditionName="&gt;" DataValue="125" DataType="Integer" ConditionID="103" LinkExpr="OR"/>
+            <Rule Field="TimeRequiredMin" ConditionName="&gt;" DataValue="2 hours" DataType="Double" ConditionID="203"/>
+          </Rule>
+          <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+30" DataType="TDateTime" ConditionID="414"/>
+          <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+            <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
+            <Rule Field="StartDateTime" ConditionName="does not exist" ConditionID="428"/>
+          </Rule>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="552"/>
+        <Column ID="1" Pos="1" Width="25"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="goal!">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/+gwMf/8MDH/6DAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/8MDH//DAx//wwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/6DAx//wwMf/oMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/AAwMfwAMDH8ADAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMfwAMDH8ADAx/AAwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/SDAx//wwMf84MDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/4QwMf/8MDH/hDAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf+EMDH//DAx/4QwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/iDAx//wwMf+EMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/8AwMf/8MDH/uDAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/AMDH//DAx/8AwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/wDAx//wwMf/AMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx//AwMf/8MDH/6DAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/8MDH//DAx//wwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH//DAx//wwMf/8MDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8DDAx//AwMf/8MDH/8DAx/AgwMfwD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>

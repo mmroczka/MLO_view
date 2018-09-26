@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Husband">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="-8" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="TopLevelFolderName" ConditionName="contains" DataValue="'Stay An Amazing Husband'" DataType="string" ConditionID="510" LinkExpr="OR"/>
+          <Rule Field="Contexts" ConditionName="contains (consider open/closed)" DataValue="-Rachel" DataType="string" ConditionID="1110"/>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="515"/>
+        <Column ID="3" Pos="3" Width="100"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="heart">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AEBA0lM7O9Bv////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AVFTZEE1N1pNHR9T+YGTl/zw80K02Ns4i////AP///wD///8A////AP///wD///8A////AP///wD///8AYmLeNFtb28d5fOv/ur///7a8//98gOv/PT3Q3Tc3zkT///8A////AP///wD///8A////AP///wB4eOYPcXHjg2pq4fKZnPL/srf//3l9//9tb///pav//5WY8f8+PtH5ODjPjzMzzRT///8A////AP///wCHh+sugIDpy42R8v/AxP3/pq7//3l6//96e///d3j//21u//+Vnf//ub7+/3J26P85Oc/TNDTNPP///wCUlPAijo7u36qt9//Bxf//l5r//4WF//+Fhf//goP//3+A//98ff//dXb//36C//+rsf//k5Xv/zo6z+01Nc4bm5vzmaqt+f/Fyf//lJb//5SU//+Skv//j5H//4uL//+Iiv//hIT//4CA//98ff//dHX//6Wr//+Dhen/OzvQmaKi9dzR1P3/q63//6Ch//+dnf//mpr//5aW//+Tk///kJD//4yM//+Jif//hYX//4GC//+Dhv//wcX9/0JC0vOoqPfq1dj+/7Cx//+pqf//p6j//6Ki//+fn///mpr//5aW//+UlP//kpL//4+R//+Kiv//h4j//7/D/f9JSdXxra355Njb/v+3uf//sLD//66v//+rq///pqb//7S1//+1uP//nJz//5qc//+Wlv//lJb//5CR///FyP3/UFDX87Ky+7nKzf7/zM///7S1//+ysv//rq7//8vP///Gy/3/wMP8/8nL//+fn///nZ3//5iY//+ipf//x8r8/1hY2uW2tv1NsLL8/9bZ/v/Z2///1Nb//9rc//+9v/r/lZXx4Y+P7tWwsvf/0tT//8DE///Dxv//1Nb//42P7v9gYN2E////ALa2/W2zs/zuubv8/7y9/P+vsfr/oaH11Jyc8zGWlvEmkJDv0qCi9P/Dxvv/trn4/4eJ7f9vb+OjaGjgC////wD///8At7f9J7S0/GqwsPt8rKz5Waio9xD///8A////AJeX8RGRke9ri4vt44SE6sF9fehL////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>
