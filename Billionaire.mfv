@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Billionaire">
+      <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" HideCompleted="0">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt>
+        <RootRule>
+          <Rule Field="TopLevelFolderName" ConditionName="is" DataValue="'Be Responsible with Our Finances &amp; Retire Early (Before I''m 40)'" DataType="string" ConditionID="512"/>
+        </RootRule>
+      </AdvFlt>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns>
+        <Column ID="0" Pos="0" Width="767"/>
+        <Column ID="1" Pos="1" Width="25"/>
+        <Column ID="3" Pos="3" Width="100"/>
+        <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
+        <Column ID="27" Pos="27" Width="26"/>
+      </Columns>
+      <IcoData Caption="money">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AGCmZDFbol/MVp9aS////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGqubgVlqmmvYKZl/Wuub/9Ml1D7UpxWNE6ZUiL///8A////AP///wD///8A////AP///wD///8A////AP///wBvsnQnfLuB/Lfeu/9nrGz/dbZ6/06YUf5TnFe4T5lTev///wD///8A////AP///wD///8A////AP///wD///8AdbZ6m5zNoP9vsnP/jceS/6rcr/92tnv/UZtV/3e3e/9QmlPdS5ZPQkeTSyn///8A////AP///wD///8Af76EGXu7gP93t3z/kcuX/6vesf+c16L/qt2w/3e3fP9grGX/rtiy/4vEkf9Ml1C5SJRMkUSRSCL///8A////AH+9hKB/vYT/l86c/63fs/9vs3T/ltWd/53Yo/+q3bD/eLh8/3K6dv/D58j/stq1/2m4bvhWnln/RZFIc0GPRDJ7u4D/jsiT/6/ftf+h2qf/mNef/5fWnv9+wIP/gsGH/6vdsP95uX3/Y65n/8TnyP/B5MT/ueC+/0+aU/9FkkkRjcmTfX27gv+PyJT/sOC2/6LaqP9/wYX/pNCn/93u3/+AuIP/q96x/3q5f/9Wn1r/xOfI/3i4fP9OmVKE////AP///wCOyZMlfbyC+pDJlf+w4Lb/hcKK//f8+P+Vwpf/3e7f/4LCh/+r3rH/e7p//1igXP9ZoV3/U5xXBP///wD///8A////AP///wB+vYP2kcqW/7Hgtv/Z893/9/z4/6TQp/9+wIT/n9ml/6zesv97u4D/Vp9a+////wD///8A////AP///wD///8A////AH++hfWSy5f/seG2/4XDiv+AwYX/mdeg/5jXn/+f2aX/rN+y/327gf9YoFz2////AP///wD///8A////AP///wD///8Agb+G9ZPMmP+x4bf/o9up/5vYov9ztHf/r9+0/4fDjP9lqmn/XaRhDv///wD///8A////AP///wD///8A////AP///wCCwIf1lMyZ/7Lit/+j3Kr/sOC2/4zGkv9usXP/ZqtrDv///wD///8A////AP///wD///8A////AP///wD///8A////AIPBiPWUzZr/s+K3/5PLmP93t3z/cLJ0Dv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AhMKK9ZbNm/+AvoX/ebl+Dv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wCGw4v1gsCHDv///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>
