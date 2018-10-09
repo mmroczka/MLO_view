@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MLO-ToDoViews-xml ver="1.0">
+  <ToDoViewsRoot>
+    <ToDoView Name="Roles" IsFolder="true">
+      <UI ActionFlt="4" UseHierarchy="true">
+        <HightlightFormat bold="1" inherit="0" options="0"/>
+      </UI>
+      <Group/>
+      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <AdvFlt/>
+      <AdvFltParent/>
+      <AdvFltChild/>
+      <Columns/>
+      <ToDoView Name="Student" IsFolder="true">
+        <UI ActionFlt="4" UseHierarchy="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt/>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="693"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="note">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAMCggP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID/wNzA/8DcwP/A3MD/wNzA/8DcwP////////////////////////////D7///AgED/AAAAPwAAAAAAAAAAwKCA/4Dg4P+A4OD/gODg///////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP+A4OD/8Pv///D7////////////////////////////////////////8Pv//8CAQP8AAAA/AAAAAAAAAADAoID/gODg///////wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb///////D7///AgED/AAAAPwAAAAAAAAAAwKCA///////w+///8Pv////////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP////////////DKpv/wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv///////////8CAQP8AAAA/AAAAAAAAAADAoID///////D7///w+//////////////////////////////////////////////AgED/AAAAPwAAAAAAAAAAwKCA//D7////////8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb/wKCA/8CggP/AwMD/wIBA/wAAAD8AAAAAAAAAAMCggP//////8Pv///D7////////////////////////wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID////////////wyqb/8Mqm//DKpv/wyqb/8Mqm/8CAQP///////////8DAwP/AgED/AAAAFgAAAAAAAAAAwKCA//D7///w+///8Pv////////////////////////AgED//////8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAMCggP//////////////////////////////////////wIBA/8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAADAoID//////////////////////////////////////8CAQP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwKCA/8CggP/AoID/wKCA/8CggP/AoID/wKCA/8CggP/AoID/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAOsQYAHrEGAD6xBgB+sQQ==</IcoData>
+        <ToDoView Name="Student - All" CounterType="2" CounterHideIfZero="true">
+          <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+            <HightlightFormat bold="1" inherit="0" options="0"/>
+          </UI>
+          <Group/>
+          <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+          <AdvFlt>
+            <RootRule>
+              <Rule Field="FolderName" ConditionName="contains" DataValue="'Masters Degree'" DataType="string" ConditionID="510"/>
+            </RootRule>
+          </AdvFlt>
+          <AdvFltParent/>
+          <AdvFltChild/>
+          <Columns>
+            <Column ID="0" Pos="0" Width="465"/>
+            <Column ID="3" Pos="3" Width="100"/>
+            <Column ID="4" Pos="4" Width="100"/>
+            <Column ID="7" Pos="7" Width="79"/>
+            <Column ID="27" Pos="27" Width="26"/>
+            <Column ID="37" Pos="37" Width="100"/>
+          </Columns>
+          <IcoData Caption="note">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAMCggP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID/wNzA/8DcwP/A3MD/wNzA/8DcwP////////////////////////////D7///AgED/AAAAPwAAAAAAAAAAwKCA/4Dg4P+A4OD/gODg///////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP+A4OD/8Pv///D7////////////////////////////////////////8Pv//8CAQP8AAAA/AAAAAAAAAADAoID/gODg///////wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb///////D7///AgED/AAAAPwAAAAAAAAAAwKCA///////w+///8Pv////////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP////////////DKpv/wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv///////////8CAQP8AAAA/AAAAAAAAAADAoID///////D7///w+//////////////////////////////////////////////AgED/AAAAPwAAAAAAAAAAwKCA//D7////////8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb/wKCA/8CggP/AwMD/wIBA/wAAAD8AAAAAAAAAAMCggP//////8Pv///D7////////////////////////wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID////////////wyqb/8Mqm//DKpv/wyqb/8Mqm/8CAQP///////////8DAwP/AgED/AAAAFgAAAAAAAAAAwKCA//D7///w+///8Pv////////////////////////AgED//////8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAMCggP//////////////////////////////////////wIBA/8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAADAoID//////////////////////////////////////8CAQP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwKCA/8CggP/AoID/wKCA/8CggP/AoID/wKCA/8CggP/AoID/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAOsQYAHrEGAD6xBgB+sQQ==</IcoData>
+        </ToDoView>
+        <ToDoView Name="Student - ASAP" CounterType="2" CounterHierarchy="2" CounterHideIfZero="true">
+          <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+            <HightlightFormat bold="1" inherit="0" options="0"/>
+          </UI>
+          <Group/>
+          <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+          <AdvFlt>
+            <RootRule>
+              <Rule Field="TopLevelParentName" ConditionName="contains" DataValue="'Grow As A Person'" DataType="string" ConditionID="510"/>
+              <Rule Field="DueDateTime" ConditionName="=" DataValue="10" DataType="Integer" ConditionID="0">
+                <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
+                <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+7" DataType="TDateTime" ConditionID="414"/>
+              </Rule>
+              <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+                <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
+                <Rule Field="StartDateTime" ConditionName="does not exist" ConditionID="428"/>
+              </Rule>
+              <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+                <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
+                <Rule Field="HasSubtasks" ConditionName="is false" ConditionID="311"/>
+              </Rule>
+            </RootRule>
+          </AdvFlt>
+          <AdvFltParent/>
+          <AdvFltChild/>
+          <Columns>
+            <Column ID="0" Pos="0" Width="552"/>
+            <Column ID="1" Pos="1" Width="25"/>
+            <Column ID="4" Pos="4" Width="100"/>
+            <Column ID="7" Pos="7" Width="79"/>
+            <Column ID="27" Pos="27" Width="26"/>
+          </Columns>
+          <IcoData Caption="exclamation">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////ADNNyCMxS8Z9L0jE2yxGwvMqRMDzKEK+2yZAvH0kProj////AP///wD///8A////AP///wD///8A////ADpUz1M4UszmUmTU/4SQ5/+VoO7/lZ/t/4OO5f9MXc7/KEG95iY/u1P///8A////AP///wD///8A////AEJc1VM/WdP0dYTj/6Gs9P9/i+z/XGfk/1tm4/99h+r/n6jx/2983f8pQ7/0J0G9U////wD///8A////AElj3CJGYNrleIjm/6Ow9f9XZ+f/VmXm/4mS7f+Ikuz/U1/i/1Jd4f+fqfL/b33d/ytEwOUpQr4i////AP///wBOaOF+YHPg/6Sz9/9abuv/WWzq/1hp6P///////////1Vi5f9UYeP/U1/i/5+p8v9QYdH/LUbCfv///wD///8AUm3l246f8P+EmfT/XHPu/1tw7P9abuv/kJ3x/6av8/9XZ+f/VmXm/1Vi5f99iev/hZHn/zFKxtv///8A////AFdx6fags/f/ZYDy/1948P9ddu//XHPu/9PZ+v//////WWzq/1hp6P9XZ+f/XWzn/5ml8f81T8r2////AP///wBbdu32obb4/2eE9P9gfPP/X3rx/1948P///////////1tw7P9abuv/WWzq/19v6f+bqPH/OlPO9v///wD///8AX3rx25Gm8/+Iofj/YoD0/2F+8/9gfPP///////////9ddu//XHPu/1tw7P+Ck/H/iZjs/z5Y0tv///8A////AGN+9X5sgez/qb37/2OC9f9igfX/YoD0////////////X3rx/1948P9ddu//pbX4/11w3f9DXdd+////AP///wBngfgiZX/25YOX8P+pvfv/Y4L1/2OC9f///////////2F+8/9gfPP/prn5/3uN6v9KZN7lSGLbIv///wD///8A////AGiD+VNmgfj0hJfx/6m9+/+Ko/j/a4n2/2uJ9v+Jovj/qLz6/3+S7P9SbOT0T2niU////wD///8A////AP///wD///8AaYT6U2iC+eZug+7/kqb0/6C0+P+gtPj/kabz/2h96f9Zc+vmVnHpU////wD///8A////AP///wD///8A////AP///wBqhfwjaYT6fWeC+dtlgPfzY37182F889tfevF9XXfvI////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+        </ToDoView>
+        <ToDoView Name="Student - High Effort Projects Due Soon" CounterType="2" CounterHierarchy="2" CounterHideIfZero="true">
+          <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" HideCompleted="0">
+            <HightlightFormat bold="1" inherit="0" options="0"/>
+          </UI>
+          <Group/>
+          <Sort Srt1="4" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+          <AdvFlt>
+            <RootRule>
+              <Rule Field="Importance" ConditionName="=" DataValue="125" DataType="Integer" ConditionID="0">
+                <Rule Field="Effort" ConditionName="&gt;" DataValue="65" DataType="Integer" ConditionID="103" LinkExpr="OR"/>
+                <Rule Field="Importance" ConditionName="&gt;" DataValue="125" DataType="Integer" ConditionID="103" LinkExpr="OR"/>
+                <Rule Field="TimeRequiredMin" ConditionName="&gt;" DataValue="2 hours" DataType="Double" ConditionID="203"/>
+              </Rule>
+              <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+30" DataType="TDateTime" ConditionID="414"/>
+              <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+                <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
+                <Rule Field="StartDateTime" ConditionName="does not exist" ConditionID="428"/>
+              </Rule>
+            </RootRule>
+          </AdvFlt>
+          <AdvFltParent/>
+          <AdvFltChild/>
+          <Columns>
+            <Column ID="0" Pos="0" Width="552"/>
+            <Column ID="1" Pos="1" Width="25"/>
+            <Column ID="4" Pos="4" Width="100"/>
+            <Column ID="7" Pos="7" Width="79"/>
+            <Column ID="27" Pos="27" Width="26"/>
+          </Columns>
+          <IcoData Caption="goal!">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/+gwMf/8MDH/6DAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/8MDH//DAx//wwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/6DAx//wwMf/oMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/AAwMfwAMDH8ADAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMfwAMDH8ADAx/AAwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/SDAx//wwMf84MDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/4QwMf/8MDH/hDAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf+EMDH//DAx/4QwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/iDAx//wwMf+EMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx/8AwMf/8MDH/uDAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/AMDH//DAx/8AwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH/wDAx//wwMf/AMDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8ADAx//AwMf/8MDH/6DAx/AAwMfwD///8A////AP///wD///8A////AP///wD///8A////AP///wAMDH8ADAx/AAwMf/8MDH//DAx//wwMfwAMDH8A////AP///wD///8A////AP///wD///8A////AP///wD///8ADAx/AAwMfwAMDH//DAx//wwMf/8MDH8ADAx/AP///wD///8A////AP///wD///8A////AP///wD///8A////AAwMfwAMDH8DDAx//AwMf/8MDH/8DAx/AgwMfwD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+        </ToDoView>
+      </ToDoView>
+      <ToDoView Name="Husband">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="-8" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="TopLevelFolderName" ConditionName="contains" DataValue="'Stay An Amazing Husband'" DataType="string" ConditionID="510" LinkExpr="OR"/>
+            <Rule Field="Contexts" ConditionName="contains (consider open/closed)" DataValue="-Rachel" DataType="string" ConditionID="1110"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="477"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="heart">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AEBA0lM7O9Bv////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AVFTZEE1N1pNHR9T+YGTl/zw80K02Ns4i////AP///wD///8A////AP///wD///8A////AP///wD///8AYmLeNFtb28d5fOv/ur///7a8//98gOv/PT3Q3Tc3zkT///8A////AP///wD///8A////AP///wB4eOYPcXHjg2pq4fKZnPL/srf//3l9//9tb///pav//5WY8f8+PtH5ODjPjzMzzRT///8A////AP///wCHh+sugIDpy42R8v/AxP3/pq7//3l6//96e///d3j//21u//+Vnf//ub7+/3J26P85Oc/TNDTNPP///wCUlPAijo7u36qt9//Bxf//l5r//4WF//+Fhf//goP//3+A//98ff//dXb//36C//+rsf//k5Xv/zo6z+01Nc4bm5vzmaqt+f/Fyf//lJb//5SU//+Skv//j5H//4uL//+Iiv//hIT//4CA//98ff//dHX//6Wr//+Dhen/OzvQmaKi9dzR1P3/q63//6Ch//+dnf//mpr//5aW//+Tk///kJD//4yM//+Jif//hYX//4GC//+Dhv//wcX9/0JC0vOoqPfq1dj+/7Cx//+pqf//p6j//6Ki//+fn///mpr//5aW//+UlP//kpL//4+R//+Kiv//h4j//7/D/f9JSdXxra355Njb/v+3uf//sLD//66v//+rq///pqb//7S1//+1uP//nJz//5qc//+Wlv//lJb//5CR///FyP3/UFDX87Ky+7nKzf7/zM///7S1//+ysv//rq7//8vP///Gy/3/wMP8/8nL//+fn///nZ3//5iY//+ipf//x8r8/1hY2uW2tv1NsLL8/9bZ/v/Z2///1Nb//9rc//+9v/r/lZXx4Y+P7tWwsvf/0tT//8DE///Dxv//1Nb//42P7v9gYN2E////ALa2/W2zs/zuubv8/7y9/P+vsfr/oaH11Jyc8zGWlvEmkJDv0qCi9P/Dxvv/trn4/4eJ7f9vb+OjaGjgC////wD///8At7f9J7S0/GqwsPt8rKz5Waio9xD///8A////AJeX8RGRke9ri4vt44SE6sF9fehL////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="Health">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="TopLevelFolderName" ConditionName="contains" DataValue="'Optimal Health'" DataType="string" ConditionID="510"/>
+            <Rule Field="HideInToDo" ConditionName="is false" ConditionID="311"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="577"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="emoticon_smile">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AACf4gwAnOCBAJreyQCX2/8Akdf/AIzTyQCHz4EAgssM////AP///wD///8A////AP///wD///8A////AACk5kUAoeTedcvv/6De9f+i4/f/nuH3/5va8/91wej/AIjQ3gCDzEj///8A////AP///wD///8A////AACp6lRFvu7/l9z2/4rf9v9VzvL/O8Xv/zPB7v9Axe//cNLy/5LS7/9Iqt7/AITNVP///wD///8A////AACt7hUAq+zzo+L4/3zd9v9T0fP/Q8vx/zzH8P80w+7/LL/t/yy97f9QyPD/l9bx/wCK0vMAhc4V////AP///wAAsPCEftb2/5bm+P9f1/T/S8bo/yuRu/8ggq3/G3+t/xyIuP8msuL/Kbzt/2jP8v9+x+v/AIzThP///wD///8AALLyz6/q+/944Pf/V8zq/yqJsP89sdb/R8zx/0DJ8P8rp9L/F3ys/ySy4v85we7/ndv0/wCS2M////8A////AAC19PC47/v/cuD3/zCNsv9HtNX/VdTz/07P8v9Fy/H/PMjw/yij0P8We6z/L7/t/5ne9v8Amd3z////AP///wAAt/X5wPP8/3bj9/9q3vb/Y9r1/1vX9P9T0vP/S87y/0PL8f87xu//MsLu/zTB7v+a3/b/AJvf8P///wD///8AALn3z7Ls/P+G5/n/b+D3/2jd9v9g2fX/Wdb0/1HR8/9IzfL/QMrw/zjF7/9IyPD/od/2/wCe4s////8A////AAC7+YR72/v/p+/7/3jk+P9t3/f/V4+1/17Y9f9W1PT/VI61/0fM8f9EyvD/e9j0/3vP8v8AoeSE////AP///wAAvfoSALz586fp/P+Z6/r/eOP3/2ve9/9k2vX/XNf0/1TT8/9T0fP/cdj0/57f9/8ApujzAKTmEv///wD///8A////AAC9+1E/zfr/muX8/6nv+/+B5fj/bt72/2ba9f9u2/X/kuP3/5Te+P8/wPH/AKnqUf///wD///8A////AP///wD///8AAL77PwC8+t512vv/q+r8/73w+/+67/v/pub6/3XV9/8AsPDeAK7uP////wD///8A////AP///wD///8A////AP///wAAvvsMAL36fgC7+cYAuff8ALj2/AC29cYAtPN+ALLyDP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="DTLP">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group/>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="ProjectName" ConditionName="is" DataValue="'Graduate DTLP Program'" DataType="string" ConditionID="512"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="477"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="money">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AGCmZDFbol/MVp9aS////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AGqubgVlqmmvYKZl/Wuub/9Ml1D7UpxWNE6ZUiL///8A////AP///wD///8A////AP///wD///8A////AP///wBvsnQnfLuB/Lfeu/9nrGz/dbZ6/06YUf5TnFe4T5lTev///wD///8A////AP///wD///8A////AP///wD///8AdbZ6m5zNoP9vsnP/jceS/6rcr/92tnv/UZtV/3e3e/9QmlPdS5ZPQkeTSyn///8A////AP///wD///8Af76EGXu7gP93t3z/kcuX/6vesf+c16L/qt2w/3e3fP9grGX/rtiy/4vEkf9Ml1C5SJRMkUSRSCL///8A////AH+9hKB/vYT/l86c/63fs/9vs3T/ltWd/53Yo/+q3bD/eLh8/3K6dv/D58j/stq1/2m4bvhWnln/RZFIc0GPRDJ7u4D/jsiT/6/ftf+h2qf/mNef/5fWnv9+wIP/gsGH/6vdsP95uX3/Y65n/8TnyP/B5MT/ueC+/0+aU/9FkkkRjcmTfX27gv+PyJT/sOC2/6LaqP9/wYX/pNCn/93u3/+AuIP/q96x/3q5f/9Wn1r/xOfI/3i4fP9OmVKE////AP///wCOyZMlfbyC+pDJlf+w4Lb/hcKK//f8+P+Vwpf/3e7f/4LCh/+r3rH/e7p//1igXP9ZoV3/U5xXBP///wD///8A////AP///wB+vYP2kcqW/7Hgtv/Z893/9/z4/6TQp/9+wIT/n9ml/6zesv97u4D/Vp9a+////wD///8A////AP///wD///8A////AH++hfWSy5f/seG2/4XDiv+AwYX/mdeg/5jXn/+f2aX/rN+y/327gf9YoFz2////AP///wD///8A////AP///wD///8Agb+G9ZPMmP+x4bf/o9up/5vYov9ztHf/r9+0/4fDjP9lqmn/XaRhDv///wD///8A////AP///wD///8A////AP///wCCwIf1lMyZ/7Lit/+j3Kr/sOC2/4zGkv9usXP/ZqtrDv///wD///8A////AP///wD///8A////AP///wD///8A////AIPBiPWUzZr/s+K3/5PLmP93t3z/cLJ0Dv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AhMKK9ZbNm/+AvoX/ebl+Dv///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wCGw4v1gsCHDv///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+    </ToDoView>
+  </ToDoViewsRoot>
+</MLO-ToDoViews-xml>
