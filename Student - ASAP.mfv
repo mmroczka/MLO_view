@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MLO-ToDoViews-xml ver="1.0">
   <ToDoViewsRoot>
-    <ToDoView Name="Student - ASAP" CounterType="2" CounterHierarchy="2" CounterHideIfZero="true">
+    <ToDoView Name="Student - ASAP" CounterType="2" CounterHideIfZero="true">
       <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
         <HightlightFormat bold="1" inherit="0" options="0"/>
       </UI>
@@ -10,25 +10,24 @@
       <AdvFlt>
         <RootRule>
           <Rule Field="TopLevelParentName" ConditionName="contains" DataValue="'Grow As A Person'" DataType="string" ConditionID="510"/>
-          <Rule Field="DueDateTime" ConditionName="=" DataValue="10" DataType="Integer" ConditionID="0">
-            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
-            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today+7" DataType="TDateTime" ConditionID="414"/>
+          <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+            <Rule Field="DueDateTime" ConditionName="in the next ? days" DataValue="10" DataType="Integer" ConditionID="421" LinkExpr="OR"/>
+            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
           </Rule>
           <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
             <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
             <Rule Field="StartDateTime" ConditionName="does not exist" ConditionID="428"/>
           </Rule>
-          <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
-            <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
+          <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
             <Rule Field="HasSubtasks" ConditionName="is false" ConditionID="311"/>
+            <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
           </Rule>
         </RootRule>
       </AdvFlt>
       <AdvFltParent/>
       <AdvFltChild/>
       <Columns>
-        <Column ID="0" Pos="0" Width="552"/>
-        <Column ID="1" Pos="1" Width="25"/>
+        <Column ID="0" Pos="0" Width="909"/>
         <Column ID="4" Pos="4" Width="100"/>
         <Column ID="7" Pos="7" Width="79"/>
         <Column ID="27" Pos="27" Width="26"/>

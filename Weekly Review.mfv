@@ -33,11 +33,11 @@
         <AdvFltParent/>
         <AdvFltChild/>
         <Columns>
-          <Column ID="0" Pos="0" Width="390"/>
+          <Column ID="0" Pos="0" Width="811"/>
           <Column ID="36" Pos="7" Width="89"/>
           <Column ID="33" Pos="8" Width="100"/>
           <Column ID="35" Pos="9" Width="100"/>
-          <Column ID="34" Pos="16" Width="103"/>
+          <Column ID="34" Pos="15" Width="103"/>
           <Column ID="7" Pos="26" Width="79"/>
           <Column ID="27" Pos="36" Width="26"/>
         </Columns>

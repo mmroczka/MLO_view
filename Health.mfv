@@ -5,18 +5,26 @@
       <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
         <HightlightFormat bold="1" inherit="0" options="0"/>
       </UI>
-      <Group/>
+      <Group>
+        <Grp1 GroupBy="6"/>
+        <Grp3 GroupBy="0"/>
+        <Grp4 GroupBy="0"/>
+      </Group>
       <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
       <AdvFlt>
         <RootRule>
           <Rule Field="TopLevelFolderName" ConditionName="contains" DataValue="'Optimal Health'" DataType="string" ConditionID="510"/>
           <Rule Field="HideInToDo" ConditionName="is false" ConditionID="311"/>
+          <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+            <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
+            <Rule NodeState="InActive" Field="HasSubtasks" ConditionName="is false" ConditionID="311"/>
+          </Rule>
         </RootRule>
       </AdvFlt>
       <AdvFltParent/>
       <AdvFltChild/>
       <Columns>
-        <Column ID="0" Pos="0" Width="598"/>
+        <Column ID="0" Pos="0" Width="909"/>
         <Column ID="4" Pos="4" Width="100"/>
         <Column ID="7" Pos="7" Width="79"/>
         <Column ID="27" Pos="27" Width="26"/>
