@@ -6,23 +6,26 @@
         <HightlightFormat bold="1" inherit="0" options="0"/>
       </UI>
       <Group>
-        <Grp1 GroupBy="2"/>
+        <Grp1 GroupBy="34"/>
         <Grp3 GroupBy="0"/>
         <Grp4 GroupBy="0"/>
       </Group>
-      <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+      <Sort Srt1="8" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
       <AdvFlt>
         <RootRule>
-          <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
-          <Rule Field="Starred" ConditionName="is true" ConditionID="310"/>
+          <Rule Field="Starred" ConditionName="is true" ConditionID="310" LinkExpr="OR"/>
+          <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+            <Rule Field="DueDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414"/>
+          </Rule>
         </RootRule>
       </AdvFlt>
       <AdvFltParent/>
       <AdvFltChild/>
       <Columns>
-        <Column ID="0" Pos="0" Width="556"/>
+        <Column ID="0" Pos="0" Width="841"/>
         <Column ID="3" Pos="3" Width="100"/>
         <Column ID="4" Pos="4" Width="100"/>
+        <Column ID="7" Pos="7" Width="79"/>
         <Column ID="27" Pos="27" Width="26"/>
       </Columns>
       <IcoData Caption="goal!_completed">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILx8fiC++H4gvHx+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILx8fiC/fH4gv/x+IL94fiC8fH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILx8fiC/fH4gv/x+IL/8fiC//H4gv3h+ILx8fiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILx8fiC/fH4gv/x+IL/8fiC//H4gv/x+IL/8fiC/eH4gvHx+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILx8fiC/fH4gv/x+IL/8fiC/3H4gvfh+IL/cfiC//H4gv/x+IL94fiC8fH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC/CH4gv/x+IL/8fiC/3H4gvRx+ILwAfiC9HH4gv9x+IL/8fiC//H4gv3h+ILx8fiC8AH4gvAB+ILwAfiC8AH4gvIx+IL+IfiC/3H4gvRx+ILwAfiC8AH4gvAB+IL0cfiC/3H4gv/x+IL/8fiC/eH4gvHx+ILwAfiC8AH4gvAB+ILwAfiC8jH4gvQx+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvRx+IL/cfiC//H4gv/x+IL94fiC8fH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC9HH4gv9x+IL/8fiC//H4gv3h+ILx8fiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+IL0cfiC/3H4gv/x+IL/8fiC/eH4gvHx+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvRx+IL/cfiC//H4gv/x+IL7sfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC9HH4gv9x+IL9wfiC8cH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+IL0IfiC8cH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwAfiC8AH4gvAB+ILwD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
