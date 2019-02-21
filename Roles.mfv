@@ -11,6 +11,7 @@
       <AdvFltParent/>
       <AdvFltChild/>
       <Columns/>
+      <IcoData Caption="group">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAABno9k5UoK2eqRVN7DLcDT/0n5B/9N+Qf/RfEH/zXo//6lII99kdJOAWZ/eW////wD///8A////AP///wD///8AP5Hf5nGFrP/Ifln//7pm//+3Yf//sF7//7Jd//+0XP/eiFf/h3N+/0yb5v////8A////AP///wD///8A////ADSE0vyTrMz/569z//+4X//+sF///qdb//2gVf//l03//ZNN/7Ofov9Olt7/////AP///wD///8A////AP///wCYSiFVtG9V9f3Xsv//1oT//8pl///AXv//tFb//6dX///Fkv/WfVv/hUMllv///wD///8A////AP///wD///8A////AKg7AWTNc1Lz/+jA/62qhv+nnn3/oJJ1//fKnP/klHX/qDkJoJk/Cwr///8A////AP///wD///8A////AP///wD///8AkTMCeW15lPpzref/gbHj/32y5/9smMT/dFUs/1ykZP9ZqGj/Wadn/1ajZP87hD7fgGZ1gFmf3lv///8A////AFZKUmZypNb+rNHy/67X/f+w1PX/ksDn/1SDif95z5T/d86O/3bOj/92zpH/a7R0/1qPWv9Mm+b/////AP///wAjV5Srp7/b/5bF8f+h0Pv/lsbz/7bP5P9Beqf/eM6P/3XNif9wy4P/ast7/2rJef9glmH/Tpbe/////wD///8AMlePxFBpmv9jgK7/fKbW/1Vzpf9DXZL/RGeY/3zQn/93zpf/cc2O/3LNiP+d2Kv/bbBw/zVpOZb///8A////ACQ7X0NEYZX9QVuQ/0FbkP9BW5D/QVuQ/2+Pnv+EmZP/fZSJ/3WMf/+k1bH/gr+F/yd+LaAmczAK////AP///wD///8AJUFmYUJhlfFBXZL/Q2CW+y1Xacxrd5L6c63n/4Gx4/99suf/bJjE/ytlLrYsdTUL////AP///wD///8A////AP///wD///8A////AP///wBWSlJmcqTW/qzR8v+u1/3/sNT1/5LA5/9AXoKt////AP///wD///8A////AP///wD///8A////AP///wD///8AD1SWjbjQ5/+WxfH/odD7/5bG8/+2z+T/MYO/3////wD///8A////AP///wD///8A////AP///wD///8A////ABVfnZI0ruX/Zbjm/43I9v87reb/Hafl/yOX1O////8A////AP///wD///8A////AP///wD///8A////AP///wAcSm9DIaPf/Rmm5f8ZpuX/Gabl/xmm5f8ja5mQ////AP///wD///8A////AP///wD///8A////AP///wD///8A////ABpUfGEll9PxG6Xk/yGg3vsib5+dIjdOBv///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
       <ToDoView Name="Student" IsFolder="true">
         <UI ActionFlt="4" UseHierarchy="true">
           <HightlightFormat bold="1" inherit="0" options="0"/>
@@ -41,13 +42,12 @@
           <AdvFltParent/>
           <AdvFltChild/>
           <Columns>
-            <Column ID="0" Pos="0" Width="878"/>
+            <Column ID="0" Pos="0" Width="547"/>
             <Column ID="1" Pos="1" Width="25"/>
             <Column ID="3" Pos="3" Width="100"/>
             <Column ID="4" Pos="4" Width="100"/>
             <Column ID="7" Pos="7" Width="79"/>
             <Column ID="27" Pos="27" Width="26"/>
-            <Column ID="37" Pos="37" Width="100"/>
           </Columns>
           <IcoData Caption="note">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAAAAAAAMCggP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID/wNzA/8DcwP/A3MD/wNzA/8DcwP////////////////////////////D7///AgED/AAAAPwAAAAAAAAAAwKCA/4Dg4P+A4OD/gODg///////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP+A4OD/8Pv///D7////////////////////////////////////////8Pv//8CAQP8AAAA/AAAAAAAAAADAoID/gODg///////wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb///////D7///AgED/AAAAPwAAAAAAAAAAwKCA///////w+///8Pv////////////////////////////////////////w+///wIBA/wAAAD8AAAAAAAAAAMCggP////////////DKpv/wyqb/8Mqm//DKpv/wyqb/8Mqm//DKpv///////////8CAQP8AAAA/AAAAAAAAAADAoID///////D7///w+//////////////////////////////////////////////AgED/AAAAPwAAAAAAAAAAwKCA//D7////////8Mqm//DKpv/wyqb/8Mqm//DKpv/wyqb/wKCA/8CggP/AwMD/wIBA/wAAAD8AAAAAAAAAAMCggP//////8Pv///D7////////////////////////wIBA/8CAQP/AgED/wIBA/8CAQP8AAAA/AAAAAAAAAADAoID////////////wyqb/8Mqm//DKpv/wyqb/8Mqm/8CAQP///////////8DAwP/AgED/AAAAFgAAAAAAAAAAwKCA//D7///w+///8Pv////////////////////////AgED//////8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAMCggP//////////////////////////////////////wIBA/8DAwP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAADAoID//////////////////////////////////////8CAQP/AgED/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwKCA/8CggP/AoID/wKCA/8CggP/AoID/wKCA/8CggP/AoID/AAAAFgAAAAAAAAAAAAAAAAAAAAAAAAAAwAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAGsQYABrEGAAaxBgAOsQYAHrEGAD6xBgB+sQQ==</IcoData>
         </ToDoView>
@@ -68,7 +68,7 @@
                 <Rule Field="StartDateTime" ConditionName="on or before" DataValue="Today" DataType="TDateTime" ConditionID="414" LinkExpr="OR"/>
                 <Rule Field="StartDateTime" ConditionName="does not exist" ConditionID="428"/>
               </Rule>
-              <Rule Expanded="TRUE" Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
+              <Rule Field="" ConditionName="=" DataValue="" DataType="Integer" ConditionID="0">
                 <Rule Field="IsProject" ConditionName="is false" ConditionID="311"/>
                 <Rule Field="HasSubtasks" ConditionName="is false" ConditionID="311"/>
               </Rule>
@@ -77,7 +77,7 @@
           <AdvFltParent/>
           <AdvFltChild/>
           <Columns>
-            <Column ID="0" Pos="0" Width="1078"/>
+            <Column ID="0" Pos="0" Width="640"/>
             <Column ID="1" Pos="1" Width="25"/>
             <Column ID="4" Pos="4" Width="100"/>
             <Column ID="7" Pos="7" Width="79"/>
@@ -108,7 +108,7 @@
           <AdvFltParent/>
           <AdvFltChild/>
           <Columns>
-            <Column ID="0" Pos="0" Width="552"/>
+            <Column ID="0" Pos="0" Width="650"/>
             <Column ID="1" Pos="1" Width="25"/>
             <Column ID="4" Pos="4" Width="100"/>
             <Column ID="7" Pos="7" Width="79"/>
@@ -132,7 +132,7 @@
         <AdvFltParent/>
         <AdvFltChild/>
         <Columns>
-          <Column ID="0" Pos="0" Width="1003"/>
+          <Column ID="0" Pos="0" Width="572"/>
           <Column ID="3" Pos="3" Width="100"/>
           <Column ID="4" Pos="4" Width="100"/>
           <Column ID="7" Pos="7" Width="79"/>
@@ -155,28 +155,84 @@
         <AdvFltParent/>
         <AdvFltChild/>
         <Columns>
-          <Column ID="0" Pos="0" Width="577"/>
+          <Column ID="0" Pos="0" Width="672"/>
           <Column ID="4" Pos="4" Width="100"/>
           <Column ID="7" Pos="7" Width="79"/>
           <Column ID="27" Pos="27" Width="26"/>
         </Columns>
         <IcoData Caption="emoticon_smile">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AACf4gwAnOCBAJreyQCX2/8Akdf/AIzTyQCHz4EAgssM////AP///wD///8A////AP///wD///8A////AACk5kUAoeTedcvv/6De9f+i4/f/nuH3/5va8/91wej/AIjQ3gCDzEj///8A////AP///wD///8A////AACp6lRFvu7/l9z2/4rf9v9VzvL/O8Xv/zPB7v9Axe//cNLy/5LS7/9Iqt7/AITNVP///wD///8A////AACt7hUAq+zzo+L4/3zd9v9T0fP/Q8vx/zzH8P80w+7/LL/t/yy97f9QyPD/l9bx/wCK0vMAhc4V////AP///wAAsPCEftb2/5bm+P9f1/T/S8bo/yuRu/8ggq3/G3+t/xyIuP8msuL/Kbzt/2jP8v9+x+v/AIzThP///wD///8AALLyz6/q+/944Pf/V8zq/yqJsP89sdb/R8zx/0DJ8P8rp9L/F3ys/ySy4v85we7/ndv0/wCS2M////8A////AAC19PC47/v/cuD3/zCNsv9HtNX/VdTz/07P8v9Fy/H/PMjw/yij0P8We6z/L7/t/5ne9v8Amd3z////AP///wAAt/X5wPP8/3bj9/9q3vb/Y9r1/1vX9P9T0vP/S87y/0PL8f87xu//MsLu/zTB7v+a3/b/AJvf8P///wD///8AALn3z7Ls/P+G5/n/b+D3/2jd9v9g2fX/Wdb0/1HR8/9IzfL/QMrw/zjF7/9IyPD/od/2/wCe4s////8A////AAC7+YR72/v/p+/7/3jk+P9t3/f/V4+1/17Y9f9W1PT/VI61/0fM8f9EyvD/e9j0/3vP8v8AoeSE////AP///wAAvfoSALz586fp/P+Z6/r/eOP3/2ve9/9k2vX/XNf0/1TT8/9T0fP/cdj0/57f9/8ApujzAKTmEv///wD///8A////AAC9+1E/zfr/muX8/6nv+/+B5fj/bt72/2ba9f9u2/X/kuP3/5Te+P8/wPH/AKnqUf///wD///8A////AP///wD///8AAL77PwC8+t512vv/q+r8/73w+/+67/v/pub6/3XV9/8AsPDeAK7uP////wD///8A////AP///wD///8A////AP///wAAvvsMAL36fgC7+cYAuff8ALj2/AC29cYAtPN+ALLyDP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
       </ToDoView>
-      <ToDoView Name="DTLP">
-        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+      <ToDoView Name="Jobs">
+        <UI ActionFlt="1" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" ProcessInclBranch="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp1 GroupBy="30"/>
+          <Grp3 GroupBy="0"/>
+          <Grp4 GroupBy="0"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="FolderName" ConditionName="contains" DataValue="'Be A Kickass Senior Software Engineer for GE Healthcare'" DataType="string" ConditionID="510" LinkExpr="OR"/>
+            <Rule Field="FolderName" ConditionName="contains" DataValue="'TA Educational Technology class'" DataType="string" ConditionID="510" LinkExpr="OR"/>
+            <Rule Field="FolderName" ConditionName="contains" DataValue="'Be A Fantastic Interviewer on Skilled'" DataType="string" ConditionID="510"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="572"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="New">AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAA2suIANrLiADay4gA2suIANrLiADay4sA2suJqNrLiADay4gA2suJqNrLiwDay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suLkNrLi/zay4ng2suJ4NrLi/zay4uQ2suIANrLiADay4gA2suIANrLiADay4gA2suIdNrLiRTay4io2suIONrLi9jay4v82suL/NrLi/zay4v82suL2NrLiDjay4io2suJFNrLiHDay4gA2suIANrLiazay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4ms2suIANrLiADay4gU2suLYNrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4tg2suIFNrLiADay4gA2suIANrLiSzay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suJLNrLiADay4gA2suIPNrLiazay4s02suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLizTay4ms2suIPNrLi4jay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi2jay4g82suJpNrLizDay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suLMNrLiaTay4g82suIANrLiADay4ks2suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLiSzay4gA2suIANrLiADay4gU2suLZNrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4tk2suIFNrLiADay4gA2suJrNrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLi/zay4v82suL/NrLiazay4gA2suIANrLiHTay4kU2suIqNrLiDDay4vY2suL/NrLi/zay4v82suL/NrLi9jay4gw2suIqNrLiRTay4hw2suIANrLiADay4gA2suIANrLiADay4gA2suLkNrLi/zay4ng2suJ4NrLi/zay4uQ2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLivzay4mo2suIANrLiADay4mo2suK/NrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIANrLiADay4gA2suIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</IcoData>
+      </ToDoView>
+      <ToDoView Name="Google Prep">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" IncludeParents="false" IncludeChild="true" HideCompleted="0">
+          <HightlightFormat bold="1" inherit="0" options="0"/>
+        </UI>
+        <Group>
+          <Grp2 GroupBy="0"/>
+          <Grp3 GroupBy="0"/>
+          <Grp4 GroupBy="0"/>
+        </Group>
+        <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
+        <AdvFlt>
+          <RootRule>
+            <Rule Field="ProjectName" ConditionName="is" DataValue="'Work At Top Tech Company'" DataType="string" ConditionID="512"/>
+          </RootRule>
+        </AdvFlt>
+        <AdvFltParent/>
+        <AdvFltChild/>
+        <Columns>
+          <Column ID="0" Pos="0" Width="550"/>
+          <Column ID="1" Pos="1" Width="25"/>
+          <Column ID="3" Pos="3" Width="100"/>
+          <Column ID="4" Pos="4" Width="100"/>
+          <Column ID="7" Pos="7" Width="79"/>
+          <Column ID="27" Pos="27" Width="26"/>
+        </Columns>
+        <IcoData Caption="google">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</IcoData>
+      </ToDoView>
+      <ToDoView Name="Billionaire">
+        <UI ActionFlt="4" UseAdvFlt="true" UseHierarchy="true" HideCompleted="0">
           <HightlightFormat bold="1" inherit="0" options="0"/>
         </UI>
         <Group/>
         <Sort Srt1="1" Srt2="1" Srt3="1" Srt4="1" Manual="false"/>
         <AdvFlt>
           <RootRule>
-            <Rule Field="ProjectName" ConditionName="is" DataValue="'Graduate DTLP Program'" DataType="string" ConditionID="512"/>
+            <Rule Field="TopLevelFolderName" ConditionName="is" DataValue="'Be Responsible with Our Finances &amp; Retire Early (Before I''m 40)'" DataType="string" ConditionID="512"/>
           </RootRule>
         </AdvFlt>
         <AdvFltParent/>
         <AdvFltChild/>
         <Columns>
-          <Column ID="0" Pos="0" Width="477"/>
+          <Column ID="0" Pos="0" Width="550"/>
+          <Column ID="1" Pos="1" Width="25"/>
           <Column ID="3" Pos="3" Width="100"/>
           <Column ID="4" Pos="4" Width="100"/>
           <Column ID="7" Pos="7" Width="79"/>
